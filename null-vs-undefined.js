@@ -20,3 +20,5 @@ console.log(fun);
 
 let enjoy = null; //null value set kore dite hoi
 console.log(enjoy);
+
+//null vs undefined cleared for interview
